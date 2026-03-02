@@ -1,4 +1,4 @@
-Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add maybe a few build links that may not even work :)
+Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add maybe a few build links that may not even work :), but i'll keep updating this.
 
 
 ## Online Testing
@@ -498,7 +498,7 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 |--------------|---------------|---------------|---------------|
 | 27.00-CL-29072304 | https://cdn.cbn.lol/27.00 |
 | 27.10-CL-29552510 | https://cdn.cbn.lol/27.10 |
-| 27.11-CL-29739262 | https://gofile.io/d/MfJHqg | https://pub-220306d029514fbba26c1ffc2ef76e3e.r2.dev/27.11.rar
+| 27.11-CL-29739262 | https://gofile.io/d/MfJHqg | https://pub-220306d029514fbba26c1ffc2ef76e3e.r2.dev/27.11.rar (Less GB than the other)
 
 ## Season 28
 | Build | Download | Alternative Download | Alternative Download
@@ -634,8 +634,13 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 ## Season 39
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 39.00-CL-48444883 | Manifest Available |
-| 39.00-CL-48444883 | Current |
+| 39.00-CL-48444883 | https://cold-na-phx-5.gofile.io/download/web/073f610e-e5b0-4df7-82a5-2f89ab2d4a18/v39.00-CL-48444883.zip 
+| 39.10-CL-48971054 | https://pastabillites.to/d/d3l3pn7cmhwn?v=s3GGffN356lTbJxaUPxVwFWbAsfmMbj1oI_1qHHMycku8arEiurKnstdndNngm9KDj2JRahOcMHgWSRBLUk4DfcuYTKoJXrbppReupTTlXqpAtKpprmHGgsH6_x2ww
+| 39.11-CL-49242330 | https://pastabillites.to/d/onbragq0eyr6?v=j86RrhrxqPiiGcidWd6AtaIZlU_GotyXKEJYxgglnB55CrTak8DRfGfNfFbV6_3Pdinzf4S1y8cHRvnlaYcTHdB6napRDJ7jaARKPdfzWku631b9Tr6rZHwb4j9j
+| 39.20-CL-49564179 | https://store-na-phx-1.gofile.io/download/web/29911236-fa7a-457d-9a86-0c025d8525c8/39.20-CL-49564179.zip
+| 39.30-CL-49874243 | https://store-na-phx-1.gofile.io/download/web/6e88416a-d452-4a58-8e8d-4f4d2f17cf74/39.30-CL-49874243.zip
+| 39.40-CL-50577083 | https://pastabillites.to/d/b07n6bokfyw4?v=wSJqG4-dVNkSUJb4Iw0PrU32VzeUo7yUxiEGp67nyWNc_9dVrNFn8hnNceUr8EglN9kxtgFkAXHynPNzPc2BMBfsju51cEz-7TT9zdpH1i7MG9I3ivq1GI7U3hkb6Q
+| 39.50-CL-50854790 | https://pastabillites.to/d/2qzcb3d27h5e?v=ZgVywtaCX3eYLzGYQZMxNhk3DBgaRG1nXY2CmV5l2wSs3qOYZ035tSK_gmJ1Xv9_Vl7TH9XkkPjZnn8qBuM8uh56BvsnlG13DuJ72JjW2Ha0F2AfisSe5ixivMcVwQ
 
 ## Other
 | Build | Download | Alternative Download | Alternative Download
