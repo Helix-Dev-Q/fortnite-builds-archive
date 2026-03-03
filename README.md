@@ -14,9 +14,9 @@ the other stuff section has been moved to the 2nd branch, if you can find it jus
 
 
 ## Pre-Season
-| Build | Download | Alternative Download | Alternative Download
-|--------------|---------------|---------------|---------------|
-| Cert (Cert-CL-3532353) (Windows, Windows) | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z | https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view | https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-20_microsoft_windows_cert-cl-3532353/fortnite.7z |
+| Build | Download | Alternative Download | Alternative Download | Alternative Download
+|--------------|---------------|---------------|---------------|---------------|
+| Cert (Cert-CL-3532353) (Windows, Windows) | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z | https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view | https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-20_microsoft_windows_cert-cl-3532353/fortnite.7z | https://fn-builds.repressoh.it/%2B%2BFortnite%2BCert-CL-3532353.7z
 | 1.2.0 (Cert-CL-3541083) | https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-21_microsoft_windows_1.2-cl-3541083/fortnite_v1.2.rar |
 | 1.4.0 | Lost |
 | 1.4.1 | Lost |
