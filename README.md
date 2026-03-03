@@ -10,8 +10,8 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 - ploosh.dev and ploosh (not sure if their the same person) for builds, ploosh.dev:26.30-CL-28688692, Main-CL-21452241, ploosh:26.30-CL-28798412
 
 ## Other
-| Build | Download | Alternative Download | Alternative Download
-|--------------|---------------|---------------|---------------|
+| Build | Download | Alternative Download | Alternative Download | Alternative Download
+|--------------|---------------|---------------|---------------|---------------|
 | QAGame UE4.11 | https://buzzheavier.com/7x179izsqtmw | https://archive.org/download/QAGameUE4.11/QAGame.rar |
 | QAGame UE5.2 | https://archive.org/download/QAGame/QAGame.rar |
 | Main-CL-21452241 | https://r2.ploosh.dev/%2B%2BFortnite%2BMain-CL-21452241-PF-ed8a.zip |
@@ -43,7 +43,7 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | OT6 (4.11.0-2801990) | Lost |
 | OT6.1 (4.1?.0-???????) | Lost |
 | OT6.2 (4.1?.0-???????) | Lost |
-| OT6.5 (4.12.0-2870186) (Windows, Windows) | https://drive.google.com/file/d/1SvrhOV72Qvv9mwI3RLMo2rOLGwAtRlNi/view | https://public.simplyblk.xyz/OT0.6.5.zip | https://archive.thedatadungeon.com/fortnite_2017/builds/2016-02-26_microsoft_windows_prototype/fortnite_alpha.rar |
+| OT6.5 (4.12.0-2870186) (Windows, Windows) | https://drive.google.com/file/d/1SvrhOV72Qvv9mwI3RLMo2rOLGwAtRlNi/view | https://public.simplyblk.xyz/OT0.6.5.zip | https://archive.thedatadungeon.com/fortnite_2017/builds/2016-02-26_microsoft_windows_prototype/fortnite_alpha.rar | https://fn-builds.repressoh.it/0nlineTest0.6.5.zip
 | OT6.6 (4.12.0-2898795) | Lost |
 | OT6.7 (4.12.0-2919741) | Lost |
 | OT7 (4.12.0-3012530) | Lost |
