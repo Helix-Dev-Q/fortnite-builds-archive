@@ -393,37 +393,37 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 21.51-CL-21735703 | https://public.simplyblk.xyz/21.51.7z | https://fn-builds.repressoh.it/21.51.7z
 
 ## Season 22
-| Build | Download | Alternative Download | Alternative Download
-|--------------|---------------|---------------|---------------|
+| Build | Download | Alternative Download | Alternative Download | Alternative Download | Alternative Download
+|--------------|---------------|---------------|---------------|---------------|---------------|
 | 22.00-CL-22026835 | Lost |
 | 22.00-CL-22072684 | Lost |
 | 22.00-CL-22107157 | Lost |
-| 22.00-CL-22149829 | https://public.simplyblk.xyz/22.00.7z | https://fn-builds.repressoh.it/22.00.7z
+| 22.00-CL-22149829 | https://public.simplyblk.xyz/22.00.7z | https://fn-builds.repressoh.it/22.00.7z | https://cdn.cbn.lol/22.00
 | 22.10-CL-22240570 | Lost |
-| 22.10-CL-22429549 | https://fn-builds.repressoh.it/22.10-CL-22429549.7z |
+| 22.10-CL-22429549 | https://fn-builds.repressoh.it/22.10-CL-22429549.7z | https://cdn.cbn.lol/22.10
 | 22.20-CL-22523251 | Lost |
 | 22.20-CL-22600409 | Unavailable |
 | 22.30-CL-22803135 | Unavailable |
-| 22.40-CL-23070899 | https://gofile.io/d/uwbcWq | https://ai-repertoire.com/download.html?token=1d051e390ae1498581d41c46541a6b6b | https://fn-builds.repressoh.it/22.40.rar
+| 22.40-CL-23070899 | https://gofile.io/d/uwbcWq | https://ai-repertoire.com/download.html?token=1d051e390ae1498581d41c46541a6b6b | https://fn-builds.repressoh.it/22.40.rar | https://buzzheavier.com/vh8pa7ikas1z | https://store4.gofile.io/download/web/103fc009-2595-463f-926b-63c49f542dc6/22.40.rar
 
 ## Season 23
-| Build | Download | Alternative Download | Alternative Download
-|--------------|---------------|---------------|---------------|
+| Build | Download | Alternative Download | Alternative Download | Alternative Download
+|--------------|---------------|---------------|---------------|---------------|
 | 23.00-CL-23344627 | https://public.simplyblk.xyz/23.00.7z | https://fn-builds.repressoh.it/23.00.7z
-| 23.10-CL-23443094 | https://public.simplyblk.xyz/23.10.rar | https://fn-builds.repressoh.it/23.10-CL-23443094.rar
+| 23.10-CL-23443094 | https://public.simplyblk.xyz/23.10.rar | https://fn-builds.repressoh.it/23.10-CL-23443094.rar | https://cdn.cbn.lol/23.10
 | 23.10-CL-23572221 | Unavailable |
 | 23.20-CL-23659353 | Unavailable |
 | 23.20-CL-23783097 | Unavailable |
 | 23.30-CL-23901854 | Lost |
 | 23.30-CL-23986860 | Unavailable | https://fn-builds.repressoh.it/23.30.zip
-| 23.40-CL-24087481 | https://public.simplyblk.xyz/23.40.zip | https://fn-builds.repressoh.it/23.40.zip
+| 23.40-CL-24087481 | https://public.simplyblk.xyz/23.40.zip | https://fn-builds.repressoh.it/23.40.zip | https://cold-na-phx-6.gofile.io/download/web/150f4045-1dd8-4421-81e2-ef3ee8c64fec/23.40-CL-24087481.zip
 | 23.50-CL-24376996 | Lost |
 | 23.50-CL-24441668 | https://public.simplyblk.xyz/23.50.zip | https://titanac.xyz/23.50.rar | https://r2.kovryn.xyz/23.50.rar | https://fn-builds.repressoh.it/23.50.zip
 
 ## Season 24
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 24.00-CL-24554913 | https://gofile.io/d/GOSBx4 | https://fn-builds.repressoh.it/24.00-CL-24554913.zip
+| 24.00-CL-24554913 | https://gofile.io/d/GOSBx4 | https://fn-builds.repressoh.it/24.00-CL-24554913.zip | https://store3.gofile.io/download/web/2cb72177-feaa-4466-a3d9-a1812eca1337/24.00-CL-24554913.zip
 | 24.01-CL-24672685 | Unavailable |
 | 24.01-CL-24757023 | Lost |
 | 24.10-CL-24770548 | Unavailable |
@@ -431,32 +431,31 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 24.20-CL-24939793 | https://r2.ploosh.dev/24.20.zip | https://r2.kovryn.xyz/24.20.zip | https://cdn.cbn.lol/24.20 | https://fn-builds.repressoh.it/24.20-CL-24939793.rar
 | 24.20-CL-25019967 | Unavailable |
 | 24.20-CL-25058254 | Unavailable |
-| 24.20-CL-25156858 | https://gofile.io/d/cw0eee | https://fn-builds.repressoh.it/24.20-CL-25156858.zip
+| 24.20-CL-25156858 | https://gofile.io/d/cw0eee | https://fn-builds.repressoh.it/24.20-CL-25156858.zip | https://store10.gofile.io/download/web/0390fe8d-f51c-4e5e-9699-05b3319d8562/24.20-CL-25156858.zip
 | 24.30-CL-25210886 | Unavailable |
 | 24.30-CL-25347382 | Unavailable |
 | 24.40-CL-25420516 | Unavailable |
 | 24.40-CL-25521145 | Unavailable |
-| 24.40-CL-25595478 | https://gofile.io/d/cw0eee | https://fn-builds.repressoh.it/24.40-CL-25595478.zip
+| 24.40-CL-25595478 | https://gofile.io/d/cw0eee | https://fn-builds.repressoh.it/24.40-CL-25595478.zip | https://cold1.gofile.io/download/web/1944b17a-2576-434b-aa93-72fc7a19c4b5/24.40-CL-25595478.zip
 
 ## Season 25
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 25.00-CL-25784668 | Unavailable |
-| 25.00-CL-25909622 | Unavailable |
-| 25.10-CL-26000959 | Unavailable |
-| 25.11-CL-26171015 | https://r2.ploosh.dev/25.11.zip | https://fn-builds.repressoh.it/25.11.zip
+| 25.00-CL-25784668 | https://gofile.io/d/KnhW64 |
+| 25.00-CL-25909622 | https://gofile.io/d/HI14D5 |
+| 25.10-CL-26000959 | https://gofile.io/d/5yVVNk |
+| 25.11-CL-26171015 | https://r2.ploosh.dev/25.11.zip | https://fn-builds.repressoh.it/25.11.zip | https://cold-na-phx-3.gofile.io/download/web/1734f047-2ef8-45cc-9d18-23c1ff61fff6/25.11-CL-26171015.7z
 | 25.20-CL-26474516 | Unavailable |
-| 25.20-CL-26629111 | https://ai-repertoire.com/download.html?token=8b7b7fe68d71489ca7222738f0e5f85e | 
-| 25.20-CL-???????? | https://fn-builds.repressoh.it/25.20.zip
-| 25.30-CL-26867995 | Unavailable |
+| 25.20-CL-26629111 | https://ai-repertoire.com/download.html?token=8b7b7fe68d71489ca7222738f0e5f85e | https://fn-builds.repressoh.it/25.20.zip | https://cold-na-phx-1.gofile.io/download/web/04766304-e2ae-44f5-8c35-d1e5ac197ceb/v25.20-CL-26629111.zip
+| 25.30-CL-26867995 | https://gofile.io/d/BdLGzc |
 
 ## Season 26
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 26.00-CL-27233190 | Unavailable |
-| 26.00-CL-27424790 | Unavailable |
-| 26.10-CL-27681420 | Unavailable |
-| 26.20-CL-28096793 | Unavailable |
+| 26.00-CL-27424790 | https://gofile.io/d/M4bCRL |
+| 26.10-CL-27681420 | https://gofile.io/d/vM1yFB |
+| 26.20-CL-28096793 | https://gofile.io/d/C63eDL |
 | 26.30-CL-28509302 | https://r2.ploosh.dev/26.30.zip | https://fn-builds.repressoh.it/26.30-CL-28509302.zip
 | 26.30-CL-28688692 | http://r2.ploosh.dev/26.30-CL-28688692.zip | https://fn-builds.repressoh.it/26.30-CL-28688692.zip
 
@@ -474,10 +473,10 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 28.01-CL-30106568 | Unavailable |
 | 28.01-CL-30313795 | Unavailable |
 | 28.10-CL-30676362 | Unavailable |
-| 28.10-CL-30835064 | Unavailable |
-| 28.20-CL-31165234 | https://fn-builds.repressoh.it/28.20-CL-31165234-Windows.zip |
-| 28.20-CL-31286935 | Unavailable |
-| 28.30-CL-31511038 | https://gofile.io/d/pIYSae | https://fn-builds.repressoh.it/28.30-CL-31511038.7z
+| 28.10-CL-30835064 | https://buzzheavier.com/kxgbxvsrg4yh |
+| 28.20-CL-31165234 | https://fn-builds.repressoh.it/28.20-CL-31165234-Windows.zip | https://buzzheavier.com/hobg7favbekg | https://gofile.io/d/e9BQ6I
+| 28.20-CL-31286935 | https://cold4.gofile.io/download/web/3b372482-5a4d-4102-a153-c4e29faa5626/c5s1.zip |
+| 28.30-CL-31511038 | https://gofile.io/d/pIYSae | https://fn-builds.repressoh.it/28.30-CL-31511038.7z | https://cdn.astralfn.xyz/28.30-CL-31511038.7z
 
 ## Season 29
 | Build | Download | Alternative Download | Alternative Download
@@ -487,8 +486,8 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 29.01-CL-32291970 | Unavailable |
 | 29.10-CL-32391220 | Unavailable |
 | 29.10-CL-32567225 | Unavailable |
-| 29.20-CL-32716692 | Unavailable |
-| 29.30-CL-32982357 | Unavailable |
+| 29.20-CL-32716692 | https://cold-na-phx-2.gofile.io/download/web/4bcd936b-afe8-4a72-9386-5936b7d7e87d/29.20-CL-32716692.7z |
+| 29.30-CL-32982357 | https://cold-na-phx-2.gofile.io/download/web/39d52172-deb2-4d85-a1cf-6821276272a5/29.30-CL-32982357.7z |
 | 29.40-CL-33291686 | https://fn-builds.repressoh.it/29.40-CL-33291686.rar |
 | 29.40-CL-33502036 | https://fn-builds.repressoh.it/29.40-CL-33502036.rar |
 | 29.40-CL-33629566 | https://fn-builds.repressoh.it/29.40.rar |
