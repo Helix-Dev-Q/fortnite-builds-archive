@@ -53,9 +53,9 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | OT9 (4.13.0-3169630) | Lost |
 | OT10 (4.14.0-3234896) | Lost |
 | OT10.1 (4.14.0-3240987) | Lost |
-| OT10.?? (4.16.0-3307419) (PS4, PS4) | https://drive.google.com/file/d/125ffoQu9CQ9rujuWS-END2xtIH7_l-Ob/view | https://archive.org/details/fortnite-mailapp-ot10 |
+| OT10.?? (4.16.0-3307419) (PS4, PS4) | https://drive.google.com/file/d/125ffoQu9CQ9rujuWS-END2xtIH7_l-Ob/view | https://archive.org/details/fortnite-mailapp-ot10 | https://dn721504.ca.archive.org/0/items/fortnite-mailapp-ot10/Fortnite%20MailApp%20OT10%20PS4.zip
 | OT11.?? (4.16.0-3471515) (Windows) | https://archive.thedatadungeon.com/fortnite_2017/builds/2017-06-07_microsoft_windows_ot-11/fortnite_ot11_pc.zip | https://archive.org/details/fortnite-ot-11-pc |
-| OT11 (4.16.0-3472679) (PS4, PS4) | https://drive.google.com/file/d/1K8c8kFma3rn9SkBM4GFl5qZN0k2GaQdB/view | https://archive.org/compress/fortnite_ot11_ps4 |
+| OT11 (4.16.0-3472679) (PS4, PS4) | https://drive.google.com/file/d/1K8c8kFma3rn9SkBM4GFl5qZN0k2GaQdB/view | https://archive.org/compress/fortnite_ot11_ps4 | https://ia800803.us.archive.org/zip_dir.php?path=/35/items/fortnite_ot11_ps4.zip |
 | OT11.0.?? (4.16.0-3472997) | Unavailable |
 | OT11.0.3? (4.16.0-3481474) | Lost |
 | OT11.0.3.1 (4.16.0-3481499) | Lost |
