@@ -1,11 +1,11 @@
 Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add build links that have not been added by llama, but i'll keep updating this.
 
 ## Credits to:
-Llamaqwerty for some of the main builds added
-jalen for most recent builds
-Pakked for builds 38.11, 35.00, 
-electric_dragon for builds 38.10, 38.00
-fn-builds.repressoh.it for a LOT of lost builds which could not be found
+- Llamaqwerty for some of the main builds added
+- jalen for most recent builds
+- Pakked for builds 38.11, 35.00, 
+- electric_dragon for builds 38.10, 38.00
+- fn-builds.repressoh.it for a LOT of lost builds which could not be found
 
 
 
