@@ -132,7 +132,7 @@ ___
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 34.40-CL-41753727 | [1](https://archive.org/download/34.10-cl-40567068/34.40-CL-41753727.rar) | [2](https://fn-builds.repressoh.it/34.40-CL-41753727.rar) |
-| 34.30-CL-41588354 | Downloadable by manifest |
+| 34.30-CL-41588354 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch6/S2/34.30-CL-41588354.7z) |
 | 34.30-CL-41387772 | [1](https://archive.org/download/34.10-cl-40567068/34.30-CL-41387772.zip) | [2](https://archive.org/download/fn-v34-archive/34.30-CL-41387772.zip)
 | 34.21-CL-41092960 | [1](https://archive.org/download/34.10-cl-40567068/34.21-CL-41092960.zip) | [2](https://archive.org/download/fn-v34-archive/34.21-CL-41092960.zip)
 | 34.20-CL-40965447 | [1](https://archive.org/download/34.10-cl-40567068/34.20-CL-40965447.zip) | [2](https://archive.org/download/fn-v34-archive/34.20-CL-40965447.zip) 
@@ -291,7 +291,7 @@ ___
 ## Chapter 3 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 21.51-CL-21735703 | [1](https://fnbuilds.site/21.51.7z) | [2](https://fn-builds.repressoh.it/21.51.7z) | [3](https://public.simplyblk.xyz/21.51.7z)
+| 21.51-CL-21735703 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/S3/21.51-CL-21735703.7z) | [2](https://fn-builds.repressoh.it/21.51.7z) | [3](https://public.simplyblk.xyz/21.51.7z)
 | 21.50-CL-21657658 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/21.50-CL-21657658.7z) | [2](https://public.simplyblk.xyz/21.50.zip) | [3](https://fn-builds.repressoh.it/21.50.zip) | [4](https://cdn.cbn.lol/21.50)
 | 21.40-CL-21407327 | [1](https://fn-builds.repressoh.it/21.40-CL-21407327.7z) | [2](https://cdn.cbn.lol/21.40)
 | 21.40-CL-21348157 | Lost |
@@ -325,11 +325,11 @@ ___
 ## Chapter 3 Season  1
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 19.40-CL-19215531 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/19.40-CL-19215531.7z) | [2](https://dl.dropboxusercontent.com/scl/fi/yh62d1ay5v87deks1g53d/19.40.zip?rlkey=y6fo0ktol2ayf7wpdw1qooj3z) | [3](https://public.simplyblk.xyz/19.40.7z) | [4](https://fn-builds.repressoh.it/19.40.7z) |  |
+| 19.40-CL-19215531 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/19.40-CL-19215531.7z) | [2](https://public.simplyblk.xyz/19.40.7z) | [3](https://fn-builds.repressoh.it/19.40.7z) |  |
 | 19.40-CL-19167615 | Unavailable |
 | 19.30-CL-19027703 | [1](https://public.simplyblk.xyz/19.30.rar) | [2](https://fn-builds.repressoh.it/19.30-CL-19027703.rar) | [3](https://cdn.cbn.lol/19.30)
 | 19.30-CL-18948597 | Unavailable |
-| 19.20-CL-18775446 | [1](https://fnbuilds.site/19.20-CL-18775446.rar) |
+| 19.20-CL-18775446 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/S1/19.20-CL-18775446.7z) |
 | 19.10-CL-18675304 | [1](https://fnbuilds.site/FortniteClient-19.10-CL-18675304-Windows.7z) | [2](https://fn-builds.repressoh.it/19.10.rar) | 
 | 19.10-CL-18640491 | Lost |
 | 19.10-CL-18581131 | Lost | 
@@ -595,10 +595,10 @@ ___
 ## Chapter 1 Season  4
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 4.50.1 (4.5-CL-4166199) | [1](https://drive.google.com/file/d/1uZ2IO1aY41HmWgq-hb-eyWtXnomkj0nc/view) | [2](https://drive.usercontent.google.com/download?id=1uZ2IO1aY41HmWgq-hb-eyWtXnomkj0nc&export=download&authuser=0&confirm=t&uuid=8eb7003a-f47a-4504-b273-473dc03044c7&at=AGN2oQ33H6PLtlygxYLcI9XPFa1u%3A1772879758174) |
+| 4.50.1 (4.5-CL-4166199) | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch1/S4/4.5-CL-4166199.7z) | [2](https://drive.google.com/file/d/1uZ2IO1aY41HmWgq-hb-eyWtXnomkj0nc/view) | [3](https://drive.usercontent.google.com/download?id=1uZ2IO1aY41HmWgq-hb-eyWtXnomkj0nc&export=download&authuser=0&confirm=t&uuid=8eb7003a-f47a-4504-b273-473dc03044c7&at=AGN2oQ33H6PLtlygxYLcI9XPFa1u%3A1772879758174) |
 | 4.50 (4.5-CL-4159770) | [1](https://public.simplyblk.xyz/4.5.rar) | [2](https://builds.rebootfn.org/4.5.rar) |
 | 4.4.X (4.4.x-CL-4132537) | Lost |
-| 4.40.1 (4.4-CL-4127312) | [1](https://public.simplyblk.xyz/4.4.1.rar) | [2](https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view) |
+| 4.40.1 (4.4-CL-4127312) | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch1/S4/4.4-CL-4127312.7z) | [2](https://public.simplyblk.xyz/4.4.1.rar) | [2](https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view) |
 | 4.40 (4.4-CL-4117433) | [1](https://public.simplyblk.xyz/4.4.rar) | [2](https://builds.rebootfn.org/4.4.rar) |
 | 4.30.1 (4.3-CL-4103483) | Lost |
 | 4.30 (4.3-CL-4095806) | Lost |
