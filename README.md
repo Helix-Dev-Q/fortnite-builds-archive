@@ -183,8 +183,8 @@ ___
 | 30.20-CL-34597766 | [1](https://fn-builds.repressoh.it/30.20-CL-34597766.rar) | 
 | 30.20-CL-34488544 | Coming Back Soon |
 | 30.10-CL-34399867 | Downloadable by manifest |
-| 30.10-CL-34261954 | Downloadable by manifest |
-| 30.10-CL-34184790 | [1](https://fn-builds.repressoh.it/30.10-CL-34184790.rar) |
+| 30.10-CL-34261954 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch5/S3/30.10-CL-34261954.7z) |
+| 30.10-CL-34184790 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch5/S3/30.10-CL-34184790.7z) |
 | 30.00-CL-33962396 | [1](https://gofile.io/d/ZjRYts) | [2](https://fn-builds.repressoh.it/30.00-CL-33962396.rar) |
 | 30.00-CL-33760522 | [1](https://gofile.io/d/ZjRYts) |
 
