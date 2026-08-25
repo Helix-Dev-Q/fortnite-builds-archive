@@ -468,7 +468,7 @@ ___
 ## Chapter 2 Season  1
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 11.50-CL-11265652 | [1](https://archive.org/download/fn-v11-archive/builds/11.50-CL-11265652.7z) |
+| 11.50-CL-11265652 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch2/S1/11.50-CL-11265652.7z) | [2](https://archive.org/download/fn-v11-archive/builds/11.50-CL-11265652.7z) |
 | 11.50-CL-11204868 | Lost |
 | 11.40-CL-11109625 | Lost |
 | 11.40-CL-11039906 | [1](https://download.fn-archive.com/FortniteClient-11.40-CL-11039906.7z) | [2](https://archive.org/download/fn-v11-archive/builds/11.40-CL-11039906.7z)
