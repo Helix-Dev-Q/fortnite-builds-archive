@@ -341,15 +341,15 @@ ___
 ## Chapter 2 Season  8
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 18.40-CL-18163738 | [1](https://cdn.cbn.lol/18.40) |
-| 18.30-CL-17882303 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch2/18.30-CL-17882303.7z) | [2](https://public.simplyblk.xyz/18.30.7z) | [3](https://fn-builds.repressoh.it/18.30.7z) |
-| 18.21-CL-17811397 | [1](https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z) | [2](https://fn-builds.repressoh.it/FortniteClient-18.21-CL-17811397.7z) | [3](https://fn-builds.repressoh.it/18.21-CL-17811397.7z) |
-| 18.20-CL-17792290 | [1](https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z) | [2](https://fn-builds.repressoh.it/18.20-CL-17792290.7z) |
-| 18.20-CL-17745267 | [1](https://cdn.cbn.lol/18.20) | [2](https://fn-builds.repressoh.it/18.20-CL-17745267.zip) |
-| 18.10-CL-17661844 | [1](https://cdn.cbn.lol/18.10) | [2](https://fn-builds.repressoh.it/18.10-CL-17661844.7z) |
+| 18.40-CL-18163738 | [1](https://cdn.cbn.lol/18.40) | [2](https://archive.org/download/fn-v18-archive/builds/18.40-CL-18163738.7z)
+| 18.30-CL-17882303 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch2/18.30-CL-17882303.7z) | [2](https://archive.org/download/fn-v18-archive/builds/18.30-CL-17882303.7z) | [3](https://fn-builds.repressoh.it/18.30.7z) |
+| 18.21-CL-17811397 | [1](https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z) | [2](https://fn-builds.repressoh.it/FortniteClient-18.21-CL-17811397.7z) | [3](https://archive.org/download/fn-v18-archive/builds/18.21-CL-17811397.7z) |
+| 18.20-CL-17792290 | [1](https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z) | [2](https://fn-builds.repressoh.it/18.20-CL-17792290.7z) | [3](https://archive.org/download/fn-v18-archive/builds/18.20-CL-17792290.7z) |
+| 18.20-CL-17745267 | [1](https://cdn.cbn.lol/18.20) | [2](https://fn-builds.repressoh.it/18.20-CL-17745267.zip) | [3](https://archive.org/download/fn-v18-archive/builds/18.20-CL-17745267.7z) |
+| 18.10-CL-17661844 | [1](https://cdn.cbn.lol/18.10) | [2](https://fn-builds.repressoh.it/18.10-CL-17661844.7z) | [3](https://archive.org/download/fn-v18-archive/builds/18.10-CL-17661844.7z) |
 | 18.10-CL-17619277 | Lost |
 | 18.00-CL-17519952 | Unavailable |
-| 18.00-CL-17468642 | [1](https://public.simplyblk.xyz/18.00.rar) | [2](https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view) | [3](https://fn-builds.repressoh.it/18.00.rar) |
+| 18.00-CL-17468642 | [1](https://archive.org/download/fn-v18-archive/builds/18.00-CL-17468642.7z) | [2](https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view) | [3](https://fn-builds.repressoh.it/18.00.rar) |
 
 ## Chapter 2 Season  7
 | Build | Download | Alternative Download | Alternative Download
