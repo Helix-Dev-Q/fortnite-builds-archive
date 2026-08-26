@@ -266,7 +266,7 @@ ___
 | 23.50-CL-24441668 | [1](https://public.simplyblk.xyz/23.50.zip) | [2](https://titanac.xyz/23.50.rar) | [3](https://r2.kovryn.xyz/23.50.rar) | [4](https://fn-builds.repressoh.it/23.50.zip) |
 | 23.50-CL-24376996 | Lost |
 | 23.40-CL-24087481 | [1](https://fnbuilds.site/23.40-CL-24087481.rar) | [2](https://fn-builds.repressoh.it/23.40.zip) |
-| 23.30-CL-23986860 | [1](https://fn-builds.repressoh.it/23.30.zip) |
+| 23.30-CL-23986860 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch4/S1/23.30-CL-23986860.7z) |
 | 23.30-CL-23901854 | Lost |
 | 23.20-CL-23783097 | [1](https://fnbuilds.site/23.20-CL-23783097.zip) | [2](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch4/23.20-CL-23783097.7z)
 | 23.20-CL-23659353 | Unavailable |
@@ -473,7 +473,7 @@ ___
 | 11.40-CL-11109625 | Lost |
 | 11.40-CL-11039906 | [1](https://download.fn-archive.com/FortniteClient-11.40-CL-11039906.7z) | [2](https://archive.org/download/fn-v11-archive/builds/11.40-CL-11039906.7z)
 | 11.40-CL-10951104 | Lost |
-| 11.31-CL-10800459 | [1](https://public.simplyblk.xyz/11.31.rar) | [2](https://drive.google.com/file/d/1s3AVQ39T56uDrGrIEk9djHqVucW5Yx_J/view) | [3](https://archive.org/download/fn-v11-archive/builds/11.31-CL-10800459.7z)
+| 11.31-CL-10800459 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch2/S1/11.31-CL-10800459.7z) | [2](https://drive.google.com/file/d/1s3AVQ39T56uDrGrIEk9djHqVucW5Yx_J/view) | [3](https://archive.org/download/fn-v11-archive/builds/11.31-CL-10800459.7z)
 | 11.31-CL-10795579 | Lost |
 | 11.31-CL-10760473 | Lost |
 | 11.30-CL-10708866 | [1](https://public.simplyblk.xyz/11.30.7z) | [2](https://archive.org/download/fn-v11-archive/builds/11.30-CL-10708866.7z)
